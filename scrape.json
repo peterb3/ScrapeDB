@@ -1,6 +1,10 @@
 {
     "elements": [
         {
+            "from": "h1",
+            "to": "name"
+        },
+        {
             "from": "[data-test='qsp-price']",
             "to": "price"
         },
