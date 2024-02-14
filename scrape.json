@@ -1,0 +1,76 @@
+{
+    "elements": [
+        {
+            "from": "[data-test='qsp-price']",
+            "to": "price"
+        },
+        {
+            "from": "[data-test='qsp-price-change']",
+            "to": "price_change"
+        },
+        {
+            "from": "[data-test='PREV_CLOSE-value']",
+            "to": "prev_close"
+        },
+        {
+            "from": "[data-test='OPEN-value']",
+            "to": "open"
+        },
+        {
+            "from": "[data-test='BID-value']",
+            "to": "bid"
+        },
+        {
+            "from": "[data-test='ASK-value']",
+            "to": "ask"
+        },
+        {
+            "from": "[data-test='DAYS_RANGE-value']",
+            "to": "days_range"
+        },
+        {
+            "from": "[data-test='FIFTY_TWO_WK_RANGE-value']",
+            "to": "52_week_range"
+        },
+        {
+            "from": "[data-test='TD_VOLUME-value']",
+            "to": "volume"
+        },
+        {
+            "from": "[data-test='AVERAGE_VOLUME_3MONTH-value']",
+            "to": "avg_volume"
+        },
+        {
+            "from": "[data-test='MARKET_CAP-value']",
+            "to": "market_cap"
+        },
+        {
+            "from": "[data-test='BETA_5Y-value']",
+            "to": "beta"
+        },
+        {
+            "from": "[data-test='PE_RATIO-value']",
+            "to": "pe"
+        },
+        {
+            "from": "[data-test='EPS_RATIO-value']",
+            "to": "eps"
+        },
+        {
+            "from": "[data-test='EARNINGS_DATE-value']",
+            "to": "earnings_date"
+        },
+        {
+            "from": "[data-test='DIVIDEND_AND_YIELD-value']",
+            "to": "dividend_and_yield"
+        },
+        {
+            "from": "[data-test='EX_DIVIDEND_DATE-value'] span",
+            "to": "ex_dividend_yield"
+        },
+        {
+            "from": "[data-test='ONE_YEAR_TARGET_PRICE-value']",
+            "to": "target_est"
+        }
+    ]
+}
