@@ -1,11 +1,11 @@
 from sqlalchemy import create_engine
 from config import DATABASE_URI
 from models import Base, Stock
-from sqlalchemy.orm import sessionmaker
+# from sqlalchemy.orm import sessionmaker
 
 engine = create_engine(DATABASE_URI)
 
-Session = sessionmaker(bind=engine)
+# Session = sessionmaker(bind=engine)
 
 
 # def recreate_database():
